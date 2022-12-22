@@ -1,4 +1,4 @@
-### Практическая задача / [Решение](https://github.com/manbojack/PP_1_1_3-4_JDBC_Hibernate)
+### Практическая задача / [Решение](https://github.com/manbojack/PP_1_1_3-4_JDBC_Hibernate) / [Материал](https://www.digitalocean.com/community/tutorials/spring-jdbc-example)
 ### В этом задании мы познакомимся с такими технологиями, как:
 
 > <b>Maven</b>  - https://maven.apache.org/  
